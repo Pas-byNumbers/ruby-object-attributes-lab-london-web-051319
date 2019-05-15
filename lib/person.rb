@@ -1,7 +1,7 @@
 class Person
   
-  def name=(alias)
-    @name = alias
+  def name=(mantle)
+    @name = mantle
   end
   
   def name
